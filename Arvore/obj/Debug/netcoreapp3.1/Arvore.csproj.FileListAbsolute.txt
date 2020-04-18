@@ -1,0 +1,13 @@
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.exe
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.deps.json
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.runtimeconfig.json
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.dll
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.pdb
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.dll
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.pdb
+E:\DESENVOLVIMENTO\C#\AED\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.genruntimeconfig.cache
